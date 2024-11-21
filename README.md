@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.rocketseat.com.br/me/luis-ferraz"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=luis-ferraz&type=card" width="280" alt="Luis Ferraz's Rocket ID"/></a>
+
 <!--
 **luisferraz/luisferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
